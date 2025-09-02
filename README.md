@@ -1,2 +1,3 @@
 # demo
-I have created this Repo to test someconcepts
+I have created this Repo to test some concepts.
+Author - Rohit Kumar.
